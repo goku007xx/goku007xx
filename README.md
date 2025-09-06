@@ -2,11 +2,11 @@
 <h3 align="center"></h3>
 
 ### 👨‍💻 About Me
-🎓 I am a security engineer doing a cybersecurity degree from the University of Maryland, College Park.\ 
-💡 I am passionate in the fields of Application Security and DevSecOps and would like to contribute in these domains.\ 
-🌱 I'm on track for learning more about security in GenAI and Reverse Engineering.\ 
-🎮 No time to play ahh Gamer\ 
-📫 Reach out to me at [gokulkarthik12345@gmail.com](gokulkarthik12345@gmail.com)\ 
+🎓 I am a security engineer doing a cybersecurity degree from the University of Maryland, College Park. 
+💡 I am passionate in the fields of Application Security and DevSecOps and would like to contribute in these domains. 
+🌱 I'm on track for learning more about security in GenAI and Reverse Engineering. 
+🎮 No time to play ahh Gamer 
+📫 Reach out to me at [gokulkarthik12345@gmail.com](gokulkarthik12345@gmail.com) 
 
 #
 
@@ -18,6 +18,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+#
 
 ### 📕 Blog Posts
 - [The Glam Look your web projects deserve ✨](https://dev.to/samyukthasudhakar/the-glam-look-your-web-projects-deserve-p59)
