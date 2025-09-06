@@ -22,9 +22,9 @@
 #
 
 ### 📕 Blog Posts
-- [Understanding CSRF and How to Mitigate It in Your Application — Part 1 ✨](https://medium.com/bugbountywriteup/understanding-csrf-and-how-to-prevent-it-in-your-application-part-1-9178bbc828d7)
-- [Understanding CSRF and How to Mitigate It in Your Application — Part 2 👩🏽‍💻](https://medium.com/@gokul_karthik/understanding-csrf-and-how-to-prevent-it-in-your-application-part-2-4cfd2940e236)
-- [HTB Dog Walkthrough](https://medium.com/bugbountywriteup/htb-dog-walkthrough-2d840513f463)
+- [Understanding CSRF and How to Mitigate It in Your Application — Part 1 👨‍💻](https://medium.com/bugbountywriteup/understanding-csrf-and-how-to-prevent-it-in-your-application-part-1-9178bbc828d7)
+- [Understanding CSRF and How to Mitigate It in Your Application — Part 2 👨‍💻](https://medium.com/@gokul_karthik/understanding-csrf-and-how-to-prevent-it-in-your-application-part-2-4cfd2940e236)
+- [HTB Dog Walkthrough 🐕](https://medium.com/bugbountywriteup/htb-dog-walkthrough-2d840513f463)
 
 #
 
