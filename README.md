@@ -10,7 +10,7 @@
 
 #
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,11 +33,4 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goku007xx&theme=tokyonight)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=goku007xx&show_icons=true&theme=tokyonight)
-
-#
-
-### ☕ Let's Connect
-<a href="https://www.linkedin.com/in/gokulkarthik2001"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
-<a href="https://www.instagram.com/samyuktha._.sudhakar/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
 #
