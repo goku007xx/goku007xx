@@ -2,11 +2,11 @@
 <h3 align="center"></h3>
 
 ### 👨‍💻 About Me
-🎓 I am a security engineer doing a cybersecurity degree from the University of Maryland, College Park.
-💡 I am passionate in the fields of Application Security and DevSecOps and would like to contribute in these domains. 
-🌱 I'm on track for learning more about security in GenAI and Reverse Engineering.
-🎮 No time to play ahh Gamer  
-📫 Reach out to me at [gokulkarthik12345@gmail.com](gokulkarthik12345@gmail.com)  
+🎓 I am a security engineer doing a cybersecurity degree from the University of Maryland, College Park.\ 
+💡 I am passionate in the fields of Application Security and DevSecOps and would like to contribute in these domains.\ 
+🌱 I'm on track for learning more about security in GenAI and Reverse Engineering.\ 
+🎮 No time to play ahh Gamer\ 
+📫 Reach out to me at [gokulkarthik12345@gmail.com](gokulkarthik12345@gmail.com)\ 
 
 #
 
