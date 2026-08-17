@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me
 🎓 I am a security engineer currently pursuing my masters in cybersecurity at the University of Maryland, College Park.  
-💡 I am passionate in the fields of Application Security and DevSecOps and would like to contribute in these domains.  
+💡 I am passionate in the fields of Application Security, Cloud Security and OffSec and would like to contribute in these domains.  
 🌱 I'm on track for learning more about security in GenAI and Reverse Engineering.   
 🎮 No time to play ahh Gamer   
 📫 Reach out to me at [gokulkarthik12345@gmail.com](gokulkarthik12345@gmail.com)   
